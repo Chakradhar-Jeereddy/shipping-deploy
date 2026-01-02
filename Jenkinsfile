@@ -9,7 +9,7 @@ properties([
 
 def mymap = [
     project: "roboshop",
-    component: "cart",
+    component: "shipping",
     acc_id: "406682759639",
     region: "us-east-1",
     appVersion: (params.appVersion),
